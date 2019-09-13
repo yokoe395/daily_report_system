@@ -95,7 +95,7 @@ button {
 }
 
 table#employee_list th {
-    width: 80%;
+    width: 30%;
     padding: 10px 2%;
 }
 
@@ -110,4 +110,8 @@ tr.row1 {
 
 tr.row0 {
     background-color: #ffffff;
+}
+
+select {
+    height: 30px;
 }
