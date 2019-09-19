@@ -5,7 +5,7 @@
     <c:param name="content">
         <c:if test="${flush}">
             <div id="flush_success">
-                <c:out value="${flush})"></c:out>
+                <c:out value="${flush}"></c:out>
             </div>
         </c:if>
         <h2>従業員 一覧</h2>
